@@ -1,7 +1,7 @@
 apt update -y
 apt install git -y
 
-git clone https://github.com/DreamHost2ws/HVM5.1
+git clone https://github.com/officialayushthewarrior-beep/HVM5.1
 cd HVM5.1
 
 apt update
